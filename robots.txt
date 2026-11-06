@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Ajoutez Sitemap: https://votre-domaine.tld/sitemap.xml après configuration
